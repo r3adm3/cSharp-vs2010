@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="c:\inetpub\net2" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="ServerSummary_net2" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Site.css" publishTime="09/16/2011 15:37:54" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="09/13/2011 02:14:16" />
+    <file relUrl="bin/Interop.MSUtil.dll" publishTime="09/15/2011 14:02:19" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="09/13/2011 02:14:16" />
+    <file relUrl="Web.config" publishTime="09/15/2011 14:28:42" />
+    <file relUrl="bin/ServerSummary.pdb" publishTime="09/16/2011 16:07:58" />
+    <file relUrl="Events.aspx" publishTime="09/16/2011 16:07:57" />
+    <file relUrl="bin/ServerSummary.dll" publishTime="09/16/2011 16:07:58" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="09/13/2011 02:14:16" />
+  </publishProfile>
+</publishData>
